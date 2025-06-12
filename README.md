@@ -1,2 +1,2 @@
-# Genesis
-Autonomous Intelligence Data Network
+# README.md
+# This is a placeholder for the README.md file.
