@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "What is your monthly investment budget?",
+        "What is your risk tolerance?",
+        "What is your investment time horizon?",
+        "How frequently do you want insights?",
+        "Are you looking to grow income, protect capital, or learn?"
+    ],
+    "output": "Matches user with 1 of 10 Portfolio AIs modeled after famous investors"
+}
