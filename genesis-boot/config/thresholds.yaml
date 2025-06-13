@@ -1,0 +1,3 @@
+confidence:
+  min: 0.7
+  max: 0.95
