@@ -1,4 +1,0 @@
-intervals:
-  minute: 15
-  assets: ['BTC', 'ETH', 'QQQ', 'AAPL']
-  strategies: ['long', 'short']

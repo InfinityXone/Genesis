@@ -1,1 +1,0 @@
-# Full user flow from login to pitch interaction
